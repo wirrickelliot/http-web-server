@@ -15,7 +15,7 @@ General purpose HTTP web server written in C. It does not support dynamic conten
 	- If yes, transmits file with appropriate HTTP response headers
 	- If no, transmits appropriate HTTP error code and message
 
-### Usage
+## Usage
 
 The web server must be started from the command line with two command line arguments:
 
